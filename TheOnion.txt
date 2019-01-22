@@ -5,11 +5,13 @@ With Uber’s robotic cars debuting this week in Pittsburgh, many wonder whether
 driverless technology will improve or endanger our lives. The Onion weighs the
 pros and cons of self-driving cars:
 
+this is a new line
+
 Pro:
 - Can finally spend quality time fiddling with radio knobs
 
 - Cities with poor public transportation given the opportunity to dump the
-systemic problem onto Google or whoever
+systemic problem onto Uber or whoever
 
 - Frees up drivers to be obscene and aggressive toward each other in all sorts
 of new ways
@@ -40,4 +42,5 @@ anymore
 
 - Majority of Beach Boys catalog now irrelevant
 
-- Someone definitely going to hack these things
+- Someone definitely going to hack these things 
+
